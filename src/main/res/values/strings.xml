@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">Porfolio App</string>
+
+
+    <string name="lorem_text" translatable="false"> My name is Sanskar Dutt Sharma, I am a person who is positive about every aspect of life. I like to think new dreams and complete them.  </string>
+    <string name="job_name" translatable="false">A travelor on the way of life..</string>
+    <string name="lorem_text2" translatable="false">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</string>
+    <string name="name" translatable="false">Sanskar Dutt Sharma</string>
+    <string name="current_job_post">Student</string>
+    <string name="department">Computer Science Department</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="studies">Education</string>
+    <string name="senior_secondary">DAV CENTENARY PUBLIC SCHOOL,Ajmer\nSenior Secondary(XII)  -> 93.0 %\n(Science Maths)\n2017-2018</string>
+    <string name="secondary_education">DAV CENTENARY PUBLIC SCHOOL,Ajmer\nSecondary(X)  -> 10.0 CGPA\n2015-2016</string>
+    <string name="college_name">Swami Keshvanand Institute of Technology, Management And Gramothan ,Jaipur\nBachelor of Technology(B.Tech)\nComputer Science\n2018-Present\n</string>
+    <string name="degree"></string>
+</resources>

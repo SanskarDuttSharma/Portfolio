@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ECE6F3</color>
+    <color name="colorPrimaryDark">#FCFCFD</color>
+    <color name="colorAccent">#8659ED</color>
+    <color name="background_light">#70E1D6</color>
+    <color name="icon_tint">#99F6F5</color>
+    <color name="nav_selected_color">#F8E64A</color>
+    <color name="card_bg_color">#99F6F5</color>
+    <color name="cv_line_color">#E0E0E0</color>
+    <color name="icon_tint_light">#afafaf</color>
+
+</resources>
